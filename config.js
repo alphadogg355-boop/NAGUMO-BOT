@@ -6,7 +6,7 @@ const config = {
     botTag:     "@CHEON",
     botVersion: "2.0.0",
     botDev:     "𝐇𝐘𝐎𝐆𝐀",
-    devNumber:  "4917672339436",
+    devNumber:  "000000000000",
 
     sessions:   "sessions",
     botNumber:  "249901501405", // رقم البوت هنا ضروري 
