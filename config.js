@@ -3,7 +3,7 @@
 const config = {
 
     botName:    "𝐇𝐘𝐎𝐆𝐀 𝐁𝐎𝐓",
-    botTag:     "@CHEON",
+    botTag:     "@HYOGA",
     botVersion: "2.0.0",
     botDev:     "𝐇𝐘𝐎𝐆𝐀",
     devNumber:  "000000000000",
