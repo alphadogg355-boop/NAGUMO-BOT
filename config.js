@@ -6,14 +6,14 @@ const config = {
     botTag:     "@HYOGA",
     botVersion: "2.0.0",
     botDev:     "𝐇𝐘𝐎𝐆𝐀",
-    devNumber:  "000000000000",
+    devNumber:  "00000000000",
 
     sessions:   "sessions",
-    botNumber:  "249901501405", // رقم البوت هنا ضروري 
+    botNumber:  "", // رقم البوت هنا ضروري 
 
 
     owner: [
-        "249128786485", //رقم المطور
+        "", //رقم المطور
     ],
 
     ownerLid: [],
